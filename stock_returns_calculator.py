@@ -11,16 +11,16 @@ import time
 
 # Stock information with Yahoo Finance ticker symbols
 STOCKS = {
-    "Delhivery Ltd": "DELHIVERY.NS",
-    "Yang Ming Marine": "2609.TW",
+    "Bizlink Holding": "3665.TW",
+    "HD Korea Shipbui": "009540.KS",
     "Hanwha Corp": "000880.KS",
+    "GE Vernova T&D I": "GVT&D.NS",
+    "Ta Ya Elec": "1609.TW",
+    "Acbel Polytech": "6282.TW",
+    "Eva Airways": "2618.TW",
     "Wan Hai Lines": "2615.TW",
-    "HD Hyundai Heavy": "329180.KS",
-    "JD Logistics Inc": "2618.HK",
-    "SK Square Co Ltd": "402340.KS",
-    "Didi Global Inc": "DIDIY",
-    "Southern Cable G": "0225.KL",
-    "Fauji Fertilizer": "FFC.KA",
+    "Time Technoplast": "TIMETECHNO.NS",
+    "Yang Ming Marine": "2609.TW",
 }
 
 # Date range for returns calculation
